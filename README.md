@@ -51,3 +51,13 @@ This project demonstrates the effectiveness of using CNNs for driver state detec
 
 ## Downloads
 A copy of trained model is provided in the google drive adddress mentioned in links.txt. Here you will get one more file with alarm for detection. Both of them can be used in 'mediapipedetect.py'
+
+## Results
+
+![pres1acc](https://github.com/user-attachments/assets/0c28c855-7ff4-4384-b262-115073ee79fc)
+
+![pres1loss](https://github.com/user-attachments/assets/e25c81ec-a38a-4e4b-8e72-6ca0b8285579)
+
+![pres1_4](https://github.com/user-attachments/assets/af109928-cfcb-4311-a7bf-a5531eddcaa9)
+![pres1conf](https://github.com/user-attachments/assets/9ac87120-de96-46d6-b4b0-1aa1e687c769)
+
