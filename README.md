@@ -48,3 +48,6 @@ The model achieved an accuracy of approximately 95% on the test data. The confus
 ## Conclusion
 
 This project demonstrates the effectiveness of using CNNs for driver state detection. The trained model can be used to identify drowsy or distracted drivers, potentially contributing to safer driving conditions.
+
+## Downloads
+A copy of trained model is provided in the google drive adddress mentioned in links.txt. Here you will get one more file with alarm for detection. Both of them can be used in 'mediapipe_detection.py'
